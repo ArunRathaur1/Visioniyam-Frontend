@@ -1,0 +1,22 @@
+.aboutbox{
+    width:325px;
+    border-radius: 10px;
+    height:"200px";
+    box-shadow: 1px 1px 5px rgb(94, 94, 94);
+}
+.boxheading{
+    padding: 5px;
+    padding-top: 20px;
+   text-align: center;
+   font-weight:700;
+   font-family: poppins;
+   font-size: 15px;
+}
+.boxdescription{
+    padding:10px;
+    font-size: 13px;
+    font-weight: 700px;
+    font-family: poppins;
+    text-align: center;
+
+}

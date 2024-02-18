@@ -1,0 +1,35 @@
+.readbox{
+    width: 90%;
+}
+.Readheading{
+    font-weight: 500;
+    font-size: 30px;
+}
+.Readcontent{
+    font-weight: 500;
+    font-size: 20px;
+}
+.readocsheading1{
+    color:rgb(78, 78, 78);
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.readocscontent1{
+    font-family:monospace;
+    background: rgb(247, 247, 247);
+    border-radius: 10px;
+    font-size: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+.Readocsbutton{
+    color: rgb(0, 72, 161);
+    border-radius: 10px;
+    position: relative;
+    top:6px
+}
+.ReadDocsbox2{
+    padding-top: 50px;
+}
