@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/visioniyam-Frontend/static/css/main.d2d521de.css",
+    "main.js": "/visioniyam-Frontend/static/js/main.069336df.js",
+    "static/media/shaurya.jpg": "/visioniyam-Frontend/static/media/shaurya.ab0eabcaf58140675c5f.jpg",
+    "static/media/utk.png": "/visioniyam-Frontend/static/media/utk.5e0a182e345c5c13c156.png",
+    "static/media/arun.jpg": "/visioniyam-Frontend/static/media/arun.edeeef25f7f84b103944.jpg",
+    "static/media/karan.jpg": "/visioniyam-Frontend/static/media/karan.d66124688f961900de89.jpg",
+    "static/media/first.png": "/visioniyam-Frontend/static/media/first.c50cc007bb9b4c8cb3e3.png",
+    "index.html": "/visioniyam-Frontend/index.html",
+    "main.d2d521de.css.map": "/visioniyam-Frontend/static/css/main.d2d521de.css.map",
+    "main.069336df.js.map": "/visioniyam-Frontend/static/js/main.069336df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2d521de.css",
+    "static/js/main.069336df.js"
+  ]
+}
